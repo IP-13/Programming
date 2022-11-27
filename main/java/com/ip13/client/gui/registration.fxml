@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<AnchorPane maxHeight="500.0" maxWidth="800" minHeight="500" minWidth="800" prefHeight="500.0" prefWidth="800.0"
+            style="-fx-background-color: rgb(95,196,196)" xmlns="http://javafx.com/javafx/17.0.2-ea"
+            xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.ip13.client.gui.Registration">
+    <TextField layoutX="300.0" layoutY="150.0" prefHeight="30.0" prefWidth="200.0" promptText="Login"
+               style="-fx-background-color: rgb(254, 221, 00)"/>
+    <PasswordField layoutX="300.0" layoutY="210.0" prefHeight="30.0" prefWidth="200.0" promptText="Password"
+                   style="-fx-background-color: rgb(254, 221, 00)"/>
+    <Button layoutX="350.0" layoutY="270.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="100.0"
+            style="-fx-background-color: rgb(254, 221, 00)" text="Register"/>
+
+</AnchorPane>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<AnchorPane maxHeight="500.0" maxWidth="800" minHeight="500" minWidth="800" prefHeight="500.0" prefWidth="800.0"
+            style="-fx-background-color: rgb(95,196,196)"
+            xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="com.ip13.client.gui.CommandMenu">
+
+
+</AnchorPane>

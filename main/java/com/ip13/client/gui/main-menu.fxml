@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.AnchorPane?>
+<AnchorPane maxHeight="500.0" maxWidth="800" minHeight="500" minWidth="800" prefHeight="500.0" prefWidth="800.0" style="-fx-background-color: rgb(95,196,196)" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.ip13.client.gui.MainMenu">
+    <children>
+        <Label alignment="CENTER" layoutX="300.0" layoutY="25.0" prefHeight="50" prefWidth="200" style="-fx-background-color: rgb(254,127,0)" text="Label" />
+        <Button layoutX="300.0" layoutY="125.0" mnemonicParsing="false" prefHeight="50.0" prefWidth="200.0" style="-fx-background-color: rgb(254, 221, 00)" text="Table of elements" />
+        <Button layoutX="300.0" layoutY="225.0" mnemonicParsing="false" prefHeight="50.0" prefWidth="200.0" style="-fx-background-color: rgb(254, 221, 00)" text="Commands" />
+        <Button layoutX="300.0" layoutY="325.0" mnemonicParsing="false" prefHeight="50.0" prefWidth="200.0" style="-fx-background-color: rgb(254, 221, 00)" text="Element's visualization" />
+        <Button layoutX="300.0" layoutY="425.0" mnemonicParsing="false" prefHeight="50.0" prefWidth="200.0" style="-fx-background-color: rgb(254, 221, 00)" text="Log Out" />
+    </children>
+</AnchorPane>
